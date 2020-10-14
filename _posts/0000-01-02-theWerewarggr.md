@@ -2,7 +2,8 @@
 
 layout: slide
 
-title: "Welcome to our second slide!"
+title: ">Yields **falsehood** when preceded by its *quotation*
+yields falsehood when preceded by its quotation"
 
 ---
 
